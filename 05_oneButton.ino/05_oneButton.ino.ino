@@ -16,7 +16,7 @@ void setup() {
 
 // Setup Serial Monitor
 // Link oneButton library to functions click1, doubleclick1, longPressStart1
-
+oneButton button1(23,false);
 } 
 
 void loop() {
